@@ -13,14 +13,12 @@ In my professional journey, I leverage statistics and business acumen to answer 
 
 ## Advanced Software Skills
 
-![Python](https://upload.wikimedia.org/wikipedia/commons/c/cf/Python_logo_51.svg)
-![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
-![Excel](https://upload.wikimedia.org/wikipedia/commons/4/40/Microsoft-excel.png)
-![R](https://upload.wikimedia.org/wikipedia/commons/9/92/Font_Awesome_5_brands_r-project.svg)
-![PowerBI](https://upload.wikimedia.org/wikipedia/commons/6/61/Power-BI-logo-300x79.png)
-![Tableau](https://github.com/JeffersonMagalhaes/JeffersonMagalhaes/assets/44331501/6f3737cd-4b8b-498b-a531-da4a34b9a2dc)
-
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Python_logo_51.svg" alt="python" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Microsoft-excel.png" alt="Excel" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Font_Awesome_5_brands_r-project.svg" alt="r-software" width="200"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Power-BI-logo-300x79.png" alt="Power BI" width="200"/>
+<img src="https://github.com/JeffersonMagalhaes/JeffersonMagalhaes/assets/44331501/6f3737cd-4b8b-498b-a531-da4a34b9a2dc" alt="tableau" width="200"/>
 
 ## Final comments! 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
