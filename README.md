@@ -1,10 +1,8 @@
 # Hello everyone! 👋
-## Welcome to My GitHub Profile! 
+Welcome to My GitHub Profile! 
 
-# About Me
-
-I am a Senior Data Analyst with a unique blend of experience in marketing, product development, customer experience, and customer support. As a professor of data analysis, I'm deeply committed to the idea that data can create real value and transform personal and professional outcomes.
-
+## About Me
+I am a Data Analyst with a unique blend of experience in marketing, product development, customer experience, and customer support. As a professor of data analysis, I'm deeply committed to the idea that data can create real value and transform personal and professional outcomes.
 In my professional journey, I leverage statistics and business acumen to answer pertinent questions for stakeholders. My toolkit includes Python, SQL, PowerBI, Tableau, R, and Excel, which I use to translate data into actionable insights.
 
 ## Connect With Me
@@ -13,7 +11,18 @@ In my professional journey, I leverage statistics and business acumen to answer 
 
 ## My public projects
 
+## Advanced Software Skills
 
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/cf/Python_logo_51.svg)
+![SQL](https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png)
+![Excel](https://upload.wikimedia.org/wikipedia/commons/4/40/Microsoft-excel.png)
+![R](https://upload.wikimedia.org/wikipedia/commons/9/92/Font_Awesome_5_brands_r-project.svg)
+![PowerBI](https://upload.wikimedia.org/wikipedia/commons/6/61/Power-BI-logo-300x79.png)
+![Tableau](https://github.com/JeffersonMagalhaes/JeffersonMagalhaes/assets/44331501/6f3737cd-4b8b-498b-a531-da4a34b9a2dc)
+
+
+
+## Final comments! 
 Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
 
 <!--
